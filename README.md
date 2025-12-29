@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 PANKAJ SHARMA
 👋 Hi, I’m Pankaj — a Full Stack Developer with strong experience in building scalable web applications.<br><br>💻 I work across the stack using **PHP (Laravel)**, **React**, **Node.js**, and RESTful **APIs**, with solid hands-on experience in **PostgreSQL** and **MySQL**. I’m comfortable with application architecture, database design, and deployment workflows.<br><br>🚀 I enjoy solving real-world problems, improving performance, and writing clean, maintainable code. Currently, I’m exploring and learning **AI-related technologies** to expand my skill set.<br><br>🌍 Location: India (Remote)  <br>🤝 Availability: Freelance & Open to opportunities  <br><br>📫 Connect with me:  <br>- Email: pankaj.techweb@gmail.com<br>
 
 
